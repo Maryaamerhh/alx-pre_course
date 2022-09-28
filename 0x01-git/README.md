@@ -1,2 +1,1 @@
-My second commit in this task
-Maryam Salisu
+I did it!
